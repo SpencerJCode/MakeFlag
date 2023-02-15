@@ -1,0 +1,27 @@
+.wholeflag {
+    width: 450px;
+    height: 300px;
+    outline: 3px solid black;
+}
+
+.oneseven {
+    background-image: url("red.png");
+    height:58px;
+}
+
+.twosix{
+    background-image: url("silver.png");
+    height:16px;
+}
+.threefive {
+    background-image: url("blue.png");
+    height:31px;
+}
+
+.four {
+    background-image: url("silver.png");
+    height: 90px;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
